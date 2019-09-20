@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaCodeFoldingSettings">
+    <option name="collapseMethodCallBodies" value="true" />
+  </component>
+</application>
