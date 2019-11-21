@@ -1,0 +1,8 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="SplitVertically">
+    <mouse-shortcut keystroke="control meta button1" />
+  </action>
+  <action id="UnsplitAll">
+    <mouse-shortcut keystroke="control meta button3" />
+  </action>
+</keymap>
