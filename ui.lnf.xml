@@ -5,5 +5,7 @@
   </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="1" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
