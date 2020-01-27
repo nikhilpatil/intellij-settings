@@ -1,4 +1,13 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy 1" parent="Mac OS X">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift meta alt v" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift meta alt v" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
