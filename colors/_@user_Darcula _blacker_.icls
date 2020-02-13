@@ -4,12 +4,12 @@
     <property name="created">2019-09-24T11:35:03</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-01-17T14:14:38</property>
+    <property name="modified">2020-02-13T16:16:48</property>
     <property name="originalScheme">Darcula (blacker)</property>
   </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
