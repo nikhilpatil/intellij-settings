@@ -15,4 +15,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.csv" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
+  <component name="ScalaCodeFoldingSettings">
+    <option name="collapseMethodCallBodies" value="true" />
+  </component>
 </application>
