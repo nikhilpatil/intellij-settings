@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Vcs Important Messages" />
+    <notification groupId="Scalafmt (Scala plugin)" displayType="NONE" />
   </component>
 </application>
