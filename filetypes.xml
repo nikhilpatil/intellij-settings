@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="gant" type="Groovy" />
-      <mapping pattern="partialReversal" type="PLAIN_TEXT" />
-      <removed_mapping ext="conf" approved="true" type="YAML" />
-    </extensionMap>
-  </component>
-</application>
