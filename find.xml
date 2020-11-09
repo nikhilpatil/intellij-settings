@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,11 +12,11 @@
     <mask>.jenkinsfile</mask>
     <mask>Ifsf*.scala</mask>
     <mask>*.proto</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.conf</mask>
     <mask>*.scala</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
