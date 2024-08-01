@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="Plugin Error" displayType="NONE" />
+    <notification groupId="Scalafmt (Scala plugin)" displayType="NONE" />
+    <notification groupId="Vcs Notifications" playSound="true" />
+  </component>
+</application>

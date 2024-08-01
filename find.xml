@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.jenkinsfile</mask>
+    <mask>*.cql</mask>
+    <mask>.jenkinsfile</mask>
+    <mask>Ifsf*.scala</mask>
+    <mask>*.proto</mask>
+    <mask>*.properties</mask>
+    <mask>*.xml</mask>
+    <mask>*.conf</mask>
+    <mask>*.yml</mask>
+    <mask>*.scala</mask>
+    <mask>*.java</mask>
+  </component>
+</application>

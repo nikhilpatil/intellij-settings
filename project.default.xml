@@ -1,0 +1,67 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectDictionaryState">
+        <dictionary name="nikhilpatil" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>EditorConfig</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/akka-samples-cluster-sharding-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/akka-samples-persistence-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/flight_delay_akka_streams" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/streaming" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/activator-akka-cluster-sharding-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/akka-samples-cluster-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/akka-samples/akka-sample-persistence-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/akkademy-db" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/paysphere" value="PREVIEW" />
+            <entry key="$USER_HOME$/scalamadeeasy" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaProjectSettings">
+        <option name="intInjectionMapping">
+          <map>
+            <entry key="xml" value="XML" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
